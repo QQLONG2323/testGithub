@@ -20,7 +20,7 @@
 
 再次提醒，若你有傳遞 --global 參數，只需要做這工作一次，因為在此系統，不論 Git 做任何事都會採用此資訊。 若你想指定不同的名字或電子郵件給特定的專案，只需要在該專案目錄內執行此命令，並確定未加上 --global 參數。
 
-'''git
-$ git config --global user.name "John Doe"
-$ git config --global user.email johndoe@example.com
-'''
+- '''git
+- $ git config --global user.name "John Doe"
+- $ git config --global user.email johndoe@example.com
+- '''
